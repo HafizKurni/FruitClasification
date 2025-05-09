@@ -32,7 +32,7 @@ The dataset used is publicly available on Kaggle:
 - Mango: 90.00%
 - Strawberry: 97.50%
 
-![ViT Confusion Matrix](image/Vit2.png)
+![ViT Confusion Matrix](image/Vit1.png)
 
 ### 🔍 Convolutional Neural Network (CNN) Performance
 
@@ -43,6 +43,6 @@ The dataset used is publicly available on Kaggle:
 - Mango: 95.00%
 - Strawberry: 100.00%
 
-![CNN Confusion Matrix](image/2.png)
+![CNN Confusion Matrix](image/1.png)
 
 
